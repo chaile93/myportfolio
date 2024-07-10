@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(111, 80, 53);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.famu1 {
+    color: orange;
+}
+
+.famu2 {
+    color: green;
+}
+
+.bold {
+    font-weight: bold;
+    color: rgb(73, 53, 35);;
+}
+
+.about-img {
+    border-radius: 50%;
+    border: 5px solid ;
+    border-color: rgb(111, 80, 53);
+}
+
+.about {
+    background-color: rgb(188, 179, 167);
+}
+
+.bball{
+    background-color: rgb(188, 179, 167);
+}
+
+img {
+    border-radius: 15%;
+}
